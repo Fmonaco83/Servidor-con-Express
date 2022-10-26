@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Tarta de Manzana",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "title": "Lemon Pie",
+    "price": 1000
+  },
+  {
+    "id": 3,
+    "title": "Marquise Oreo",
+    "price": 300
+  }
+]
